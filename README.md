@@ -4,4 +4,4 @@
 <li> Stacks </li>
 <li> Queues </li>
 <li> Priority Queues</li>
-
+<li> Linked lists (Singly & Doubly) </li>
